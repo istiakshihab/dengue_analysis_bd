@@ -1,0 +1,282 @@
+{
+	"id": "77008be8-ec4c-4269-a34e-e42d8a4330c6",
+	"name": "dengue_news_analysis_api",
+	"timestamp": "2020-03-26T09:42:42.876Z",
+	"collection_id": "196c1c9b-7138-4668-b454-c98dbb5abb9d",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "ed60c7a0-893f-4021-bbef-eacc0d293e5e",
+			"name": "get_dengue_news",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1443,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1443
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "aef89f37-a162-4457-a8f7-cdd2ae0bd85f",
+			"name": "get_dengue_news Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1169,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1169
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d77cfc82-32ae-430b-9f8a-2263b66e10d1",
+			"name": "get_dengue_news Copy Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1130,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1130
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "a39fa0e1-f229-4269-934c-623b77909f0a",
+			"name": "get_dengue_news Copy Copy Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1078,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1078
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "34fdcd96-41b3-4589-8c80-4cad1933d8b6",
+			"name": "get_dengue_news Copy Copy Copy Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1872,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1872
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "240b1798-b275-404b-b83d-88a54231e82d",
+			"name": "get_dengue_news Copy Copy Copy Copy Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1060,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1060
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "728cc4f2-5139-42c4-9edc-ce4ca51e756e",
+			"name": "get_dengue_news Copy Copy Copy Copy Copy Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1063,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1063
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "2a177c47-2937-439b-af0e-ffe01f4a9f83",
+			"name": "get_dengue_news Copy Copy Copy Copy Copy Copy Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1714,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1714
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "851d5921-8dd1-4643-952c-c94fc5d307a1",
+			"name": "get_dengue_news Copy Copy Copy Copy Copy Copy Copy Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1109,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1109
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "95a25e56-a29c-438d-8ba0-2ce1684ddeda",
+			"name": "get_dengue_news Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1220,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1220
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "a48adac6-9c62-423f-a1eb-2bc4d4fabc1f",
+			"name": "get_dengue_news Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1607,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1607
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d65fff10-ed9c-4e81-939e-06c93a91e9b2",
+			"name": "get_dengue_news Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy",
+			"url": "dev.pipilika.com:5001/get_dengue_news?location=ঢাকা&start_date=2019-01-01&end_date=2019-01-05",
+			"time": 1102,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1102
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 15567,
+	"collection": {
+		"requests": [
+			{
+				"id": "ed60c7a0-893f-4021-bbef-eacc0d293e5e",
+				"method": "GET"
+			},
+			{
+				"id": "aef89f37-a162-4457-a8f7-cdd2ae0bd85f",
+				"method": "GET"
+			},
+			{
+				"id": "d77cfc82-32ae-430b-9f8a-2263b66e10d1",
+				"method": "GET"
+			},
+			{
+				"id": "a39fa0e1-f229-4269-934c-623b77909f0a",
+				"method": "GET"
+			},
+			{
+				"id": "34fdcd96-41b3-4589-8c80-4cad1933d8b6",
+				"method": "GET"
+			},
+			{
+				"id": "240b1798-b275-404b-b83d-88a54231e82d",
+				"method": "GET"
+			},
+			{
+				"id": "728cc4f2-5139-42c4-9edc-ce4ca51e756e",
+				"method": "GET"
+			},
+			{
+				"id": "2a177c47-2937-439b-af0e-ffe01f4a9f83",
+				"method": "GET"
+			},
+			{
+				"id": "851d5921-8dd1-4643-952c-c94fc5d307a1",
+				"method": "GET"
+			},
+			{
+				"id": "95a25e56-a29c-438d-8ba0-2ce1684ddeda",
+				"method": "GET"
+			},
+			{
+				"id": "a48adac6-9c62-423f-a1eb-2bc4d4fabc1f",
+				"method": "GET"
+			},
+			{
+				"id": "d65fff10-ed9c-4e81-939e-06c93a91e9b2",
+				"method": "GET"
+			}
+		]
+	}
+}
